@@ -1,0 +1,22 @@
+[
+    {
+      "pregunta": "¿Cuál es la capital de España?",
+      "correcta": "Madrid",
+      "opciones": ["Madrid", "Barcelona", "Sevilla"]
+    },
+    {
+      "pregunta": "¿Cuántos continentes hay?",
+      "correcta": "7",
+      "opciones": ["7", "5", "6"]
+    },
+    {
+      "pregunta": "¿Qué lenguaje se usa para programar en Arcade?",
+      "correcta": "Python",
+      "opciones": ["Python", "Java", "JavaScript"]
+    },
+    {
+      "pregunta": "¿La tortilla de patata lleva cebolla?",
+      "correcta": "Jamás",
+      "opciones": ["Jamás", "Sí", "No con excepciones", "Tal vez"]
+    }
+]
